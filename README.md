@@ -34,7 +34,7 @@ where available and to the library's API source otherwise.
 | --- | --- | --- | --- |
 | **Foundations** | | | |
 | [TerminalStyle](https://github.com/titanomachy/terminal-style) | `terminal_style` | ANSI colors, RGB palettes, text attributes, and Unicode-aware measuring, padding, and wrapping. | [GitHub Pages](https://titanomachy.github.io/terminal-style/) |
-| [TerminalScreen](https://github.com/titanomachy/terminal-screen) | `terminal_screen` | Guarded terminal sessions, raw mode, normalized keyboard events, cursor control, and terminal geometry. | [API source](https://github.com/titanomachy/terminal-screen/blob/master/src/terminal_screen.nim) |
+| [TerminalScreen](https://github.com/titanomachy/terminal-screen) | `terminal_screen` | Guarded terminal sessions, raw mode, normalized keyboard events, cursor control, and terminal geometry. | [GitHub Pages](https://titanomachy.github.io/terminal-screen/) |
 | **Output components** | | | |
 | [TerminalStatus](https://github.com/titanomachy/terminal-status) | `terminal_status` | Spinners, single and multiple progress bars, task step trackers, and live status output. | [API source](https://github.com/titanomachy/terminal-status/blob/master/src/terminal_status.nim) |
 | [TerminalTable](https://github.com/titanomachy/terminal-table) | `terminal_table` | Styled and responsive tables, live data displays, and typed, CSV, and JSON data adapters. | [GitHub Pages](https://titanomachy.github.io/terminal-table/) |

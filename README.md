@@ -27,8 +27,8 @@ requirements vary by package; see each library's README for details.
 ## Packages and documentation
 
 Each library can also be installed independently. Package names below are the
-Nimble names and main import modules. Documentation links lead to GitHub Pages
-where available and to the library's API source otherwise.
+Nimble names and main import modules. Documentation links lead to each library's
+GitHub Pages site.
 
 | Library | Package / import | Description | Documentation |
 | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ where available and to the library's API source otherwise.
 | [TerminalGraph](https://github.com/titanomachy/terminal-graph) | `terminal_graph` | Line, bar, candle, and scatter charts; sparklines, surfaces, contours, and live dashboards. | [GitHub Pages](https://titanomachy.github.io/terminal-graph/) |
 | **Interaction** | | | |
 | [TerminalPrompt](https://github.com/titanomachy/terminal-prompt) | `terminal_prompt` | Text, password, confirmation, single-select, and multi-select prompts with cancellation and EOF handling. | [GitHub Pages](https://titanomachy.github.io/terminal-prompt/) |
-| [TerminalWidgets](https://github.com/titanomachy/terminal-widgets) | `terminal_widgets` | Stateful checkboxes, switches, tabs, menus, text fields, and scrollable lists with keyboard focus and an optional runtime. | [API source](https://github.com/titanomachy/terminal-widgets/blob/master/src/terminal_widgets.nim) |
+| [TerminalWidgets](https://github.com/titanomachy/terminal-widgets) | `terminal_widgets` | Stateful checkboxes, switches, tabs, menus, text fields, and scrollable lists with keyboard focus and an optional runtime. | [GitHub Pages](https://titanomachy.github.io/terminal-widgets/) |
 
 Use TerminalPrompt to ask a question and return an answer. Use TerminalWidgets
 for controls that remain on screen as part of an application. TerminalStyle

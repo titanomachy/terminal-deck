@@ -41,7 +41,7 @@ where available and to the library's API source otherwise.
 | [TerminalLayout](https://github.com/titanomachy/terminal-layout) | `terminal_layout` | Trees, panels, cards, nested lists, callouts, and banners that render to composable strings. | [GitHub Pages](https://titanomachy.github.io/terminal-layout/) |
 | [TerminalGraph](https://github.com/titanomachy/terminal-graph) | `terminal_graph` | Line, bar, candle, and scatter charts; sparklines, surfaces, contours, and live dashboards. | [GitHub Pages](https://titanomachy.github.io/terminal-graph/) |
 | **Interaction** | | | |
-| [TerminalPrompt](https://github.com/titanomachy/terminal-prompt) | `terminal_prompt` | Text, password, confirmation, single-select, and multi-select prompts with cancellation and EOF handling. | [API source](https://github.com/titanomachy/terminal-prompt/blob/master/src/terminal_prompt.nim) |
+| [TerminalPrompt](https://github.com/titanomachy/terminal-prompt) | `terminal_prompt` | Text, password, confirmation, single-select, and multi-select prompts with cancellation and EOF handling. | [GitHub Pages](https://titanomachy.github.io/terminal-prompt/) |
 | [TerminalWidgets](https://github.com/titanomachy/terminal-widgets) | `terminal_widgets` | Stateful checkboxes, switches, tabs, menus, text fields, and scrollable lists with keyboard focus and an optional runtime. | [API source](https://github.com/titanomachy/terminal-widgets/blob/master/src/terminal_widgets.nim) |
 
 Use TerminalPrompt to ask a question and return an answer. Use TerminalWidgets

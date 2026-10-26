@@ -50,6 +50,10 @@ provides shared text styling; TerminalScreen provides terminal access and input.
 
 ## Installation
 
+The TerminalDeck meta package uses minimum version requirements, allowing Nimble
+to install the latest tagged release of each included library that satisfies all
+dependency constraints. A project lockfile can keep older versions pinned.
+
 Install directly from the repository:
 
 ```sh
